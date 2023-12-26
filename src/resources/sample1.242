@@ -1,0 +1,32 @@
+<242>
+    <section>
+        <infix>
+            <equation>2 + 3</equation>
+            <equation>4 * 5</equation>
+        </infix>
+        <postfix>
+            <equation>7 3 +</equation>
+            <equation>5 5 *</equation>
+        </postfix>
+    </section>
+        <section>
+        <infix>
+            <equation>1 + 10</equation>
+            <equation>5 * 9</equation>
+        </infix>
+        <postfix>
+            <equation>6 8 +</equation>
+            <equation>2 5 *</equation>
+        </postfix>
+    </section>
+        <section>
+        <infix>
+            <equation>6 + 9</equation>
+            <equation>5 * 1</equation>
+        </infix>
+        <postfix>
+            <equation>4 8 +</equation>
+            <equation>6 7 *</equation>
+        </postfix>
+    </section>
+</242>
