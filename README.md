@@ -2,6 +2,11 @@
 
 This project involves the implementation of an equation processor application using linked stack and cursor array implementations of a linked list. The application is designed to read equations from a special text file with a .242 extension, process them, and provide various functionalities.
 
+## Data Structures
+
+1. Implemented the linked stack using a cursor array of Sections.
+2. Defined one cursor array to create as many stacks of equations as needed.
+    
 ## Equation File Format
 
 The equation file follows a specific format:
